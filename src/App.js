@@ -41,7 +41,7 @@ const quoteArray = [
       author: " Alexander The Great "
     },
     {
-      text: "Don\'t sleep too much. If you sleep 3 hours less each night for a year, you will have an extra month which is 13 in total to succeed while the rest will have 12 months.",
+      text: "Don't sleep too much. If you sleep 3 hours less each night for a year, you will have an extra month which is 13 in total to succeed while the rest will have 12 months.",
       author: " Aristotle Onassis"
     },
     {
@@ -49,7 +49,7 @@ const quoteArray = [
       author: " Albert Einstein"
     },
     {
-      text: "Impossible is not a fact. It\'s an opinion. Impossible is not a declaration. It\'s a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.",
+      text: "Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.",
       author: " Muhammad Ali"
     },
     {
@@ -73,7 +73,7 @@ const quoteArray = [
       author: " Kahlil Gibran "
     },
     {
-      text: "For us to be where we are currently, we built many systems, chat apps and many projects, but they failed and we didn\'t give up!",
+      text: "For us to be where we are currently, we built many systems, chat apps and many projects, but they failed and we didn't give up!",
       author: " Mark Zuckerberg"
     },
     {
@@ -81,7 +81,7 @@ const quoteArray = [
       author: " Nikola Tesla"
     },
     {
-      text: "Life shrinks or expands in propotion to one\'s courage.",
+      text: "Life shrinks or expands in propotion to one's courage.",
       author: " Anais Nin"
     },
     {
@@ -113,7 +113,7 @@ const quoteArray = [
       author: " Caroline "
     },
     {
-      text: "Don\'t let what you cannot do interfere with what you can do. ",
+      text: "Don't let what you cannot do interfere with what you can do. ",
       author: " John Wooden "
     },
     {
@@ -129,7 +129,7 @@ const quoteArray = [
       author: " Leonardo da Vinci "
     },
     {
-      text: "If opportunity doesn\'t knock, build a door",
+      text: "If opportunity doesn't knock, build a door",
       author: " Aurelius "
     },
     {
@@ -153,7 +153,7 @@ const quoteArray = [
       author: " Marcus Aurelius "
     },
     {
-      text: "Most people don\'t listen with the intent to understand, but they listen with the intent to reply. ",
+      text: "Most people don't listen with the intent to understand, but they listen with the intent to reply. ",
       author: " Stephen Covey "
     },
     {
@@ -253,7 +253,7 @@ function MyComponent(){
            </button>
 
           <button className="border border-none" style={{backgroundColor: bgcolor, color: "white"}}>
-          <a  target="_blank" href="https://www.facebook.com/freecodecamp"  style={{color: "white"}}>
+          <a  target="_blank" rel="noreferrer" href="https://www.facebook.com/freecodecamp"  style={{color: "white"}}>
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
           <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
           </svg>
