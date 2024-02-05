@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { useState } from 'react';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const quoteArray = [
     { text: "The purpose of our lives is to be happy.", 
